@@ -2,6 +2,8 @@
 
 # parcel-plugin-react-markdown
 
+[![npm version](https://badge.fury.io/js/parcel-plugin-react-markdown.svg)](https://badge.fury.io/js/parcel-plugin-react-markdown)
+
 A plugin for [Parcel.js](https://parceljs.org/) bundler that renders markdown files into React components using [react-markdown](https://github.com/rexxars/react-markdown).
 
 ### Use
