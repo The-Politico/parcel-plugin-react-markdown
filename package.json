@@ -4,10 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "description": "Parcel plugin that lets you import markdown files as React components.",
-  "author": "Jon McClure",
+  "author": "Jon McClure <jon.r.mcclure@gmail.com>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/The-Politico/parcel-plugin-react-markdown"
   },
   "scripts": {
     "test": "rm -rf .cache && rm -rf dist && node test/index.js"
